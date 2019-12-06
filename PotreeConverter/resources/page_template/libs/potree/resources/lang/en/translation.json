@@ -66,6 +66,28 @@
 		"freeze": "Lock view",
 		"language": "Language"
 	},
+	"divider":{
+		"eye_dome_lightning": "Eye-Dome-Lighting",
+		"background": "Background",
+		"other": "Other",
+		"measurement": "Measurement",
+		"clipping": "Clipping",
+		"navigation": "Navigation",
+		"objects": "Objects",
+		"properties": "Properties"
+	},
+	"background":{
+		"skybox": "Skybox",
+		"gradient": "Gradient",
+		"black": "Black",
+		"white": "White",
+		"none": "None"
+	},
+	"splat":{
+		"splat_quality": "Splat Quality",
+		"standart": "Standart",
+		"hight_quality": "High Quality"
+	},
 	"measurements": {
 		"clip": "clip",
 		"show": "show volume"

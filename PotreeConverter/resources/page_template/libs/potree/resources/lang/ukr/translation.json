@@ -1,0 +1,112 @@
+{
+	"tb": {
+		"navigation_opt": "Навігація",
+		"rendering_opt": "Вигляд",
+		"tools_opt": "Інструменти",
+		"measurments_opt": "Виміри",
+		"clipping_opt": "Обрізування",
+		"annotations_opt": "Анотації",
+		"materials_opt": "Матеріали",
+		"scene_opt": "Вид",
+		"classification_filter_opt": "Фільтр класифікації",
+		"parameters_opt": "Інші налаштування",
+		"about_opt": "Про нас"
+	},
+	"tt": {
+		"angle_measurement": "Вимірювання кута",
+		"point_measurement": "Вимірювання точок",
+		"distance_measurement": "Вимірювання дистанції ",
+		"height_measurement": "Вимірювання висоти",
+		"area_measurement": "Вимірювання області",
+		"volume_measurement": "Вимірювання об'єму",
+		"height_profile": "Профіль висоти",
+		"clip_volume": "Об'ємна обрізка",
+		"clip_polygon": "Обрізка полігону",
+		"screen_clip_box": "Накреслити зону вибору. Ви маєте бути в режимі ортографічної камери!",
+		"clip_plane_x": "Затиск плоскості по осі x",
+		"clip_plane_y": "Затиск плоскості по осі y",
+		"clip_plane_z": "Затиск плоскості по осі z",
+		"remove_all_measurement": "Прибрати усі вимірювання",
+		"left_view_control": "Вигляд зліва",
+		"right_view_control": "Вигляд справа",
+		"front_view_control": "Вигляд спереду",
+		"back_view_control": "Вигляд ззаду",
+		"top_view_control": "Вигляд зверху",
+		"bottom_view_control": "Вигляд знизу",
+		"focus_control": "Повний вигляд",
+		"orbit_control": "Контроль орбіти",
+		"flight_control": "Контроль польоту",
+		"heli_control": "Контроль гелікоптеру",
+		"earth_control": "Контроль землі",
+		"perspective_camera_control": "Перспективна камера",
+		"orthographic_camera_control": "Ортографічна камера",
+		"navigation_cube_control": "Куб навігації",
+		"remove_all_clipping_volumes": "Прибрати усі об'єми обрізок"
+	},
+	"appearance": {
+		"nb_max_pts": "Ліміт точок", 
+		"point_size": "Розмір точок",
+		"point_opacity": "Непрозорість",
+		"field_view": "Поле перегляду",
+		"point_size_type": "Змінювання розміру точок",
+		"point_material": "Матеріали",
+		"elevation_range": "Дальність підняття",
+		"point_quality": "Якість",
+		"point_shape": "Форма",
+		"edl_radius": "Радіус",
+		"edl_strength": "Сила",
+		"edl_enable": "Увімкнути",
+		"min_node_size": "Мінімальний розмір вузла",
+		"clip_mode": "Режим обрізки",
+		"move_speed": "Швидкість",
+		"skybox": "Небо",
+		"bottom_lock": "Триматися над землею",
+		"box": "Зона",
+		"length_unit": "Одиниця виміру довжини",
+		"freeze": "Блокувати перегляд",
+		"language": "Мова"
+	},
+	"divider":{
+		"eye_dome_lightning": "Погляд-Сфера-Освітлення",
+		"background": "Фон",
+		"other": "Iнше",
+		"measurement": "Вимірювання",
+		"clipping": "Нарізка",
+		"navigation": "Навігація",
+		"objects": "Об'єкт",
+		"properties": "Характеристик"
+	},
+	"background":{
+		"skybox": "Фон",
+		"gradient": "Градієнт",
+		"black": "Чорний",
+		"white": "Білий",
+		"none": "Порожній"
+	},
+	"splat":{
+		"splat_quality": "Якість накладення",
+		"standart": "Стандартне",
+		"hight_quality": "Високої якості"
+	},
+	"measurements": {
+		"clip": "Обрізка",
+		"show": "Показати об'єм"
+	},
+	"annotations": {
+		"show3D": "показати в 3D",
+		"showMap": "показати на карті"
+	}, 
+	"profile": {
+		"nb_points": "Кількість точок",
+		"title": "Профіль Висоти",
+		"save_las": "Зберегти LAS(3D)",
+		"save_ortho": "Зберегти CSV(2D)"
+	},
+	"scene": {
+		"camera_position": "Позиція камери",
+		"camera_target": "Ціль камери"
+	},
+	"settings": {
+		"language": "Мова"
+	}
+}
